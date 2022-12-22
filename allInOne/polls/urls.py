@@ -8,8 +8,3 @@ urlpatterns = [
 
 ]
 
-
-"""
-1era parte del tutorial hecha, seguir desde el principio de
-la 2da parte. :D
-"""
